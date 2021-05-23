@@ -14,3 +14,16 @@
 git remote add origin https://github.com/debsdaniel/ejemplo1.git
 5. Subir Cambios
 git push -u origin master
+
+
+6. Para Cambios
+git add .
+git commit -m "Cambios"
+git push -u origin master
+
+7. Bajar localmente
+7.1 Clonado
+  git clone https://github.com/debsdaniel/ejemplo1.git
+7.2 Actualizar
+  git fetch -p
+  git pull
