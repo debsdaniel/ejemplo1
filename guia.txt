@@ -4,7 +4,13 @@
   Crear Directorio  (ejemplo1)
   cd ejemplo1
   git init
-
+  Autenticación
+  git config user.email "correo"
+  git config user.name "nombre_usuario"
 3. Copiar Archivos al proyecto local
-
+  git add .
+  git commit -m "Guia"
 4. Agregar repositorio remoto al local
+git remote add origin https://github.com/debsdaniel/ejemplo1.git
+5. Subir Cambios
+git push -u origin master
