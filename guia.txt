@@ -1,0 +1,10 @@
+1. Crear proyecto en GitHub
+  ejemplo1
+2. Iniciar Proyecto localmente
+  Crear Directorio  (ejemplo1)
+  cd ejemplo1
+  git init
+
+3. Copiar Archivos al proyecto local
+
+4. Agregar repositorio remoto al local
